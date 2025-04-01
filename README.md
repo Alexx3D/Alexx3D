@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**Alexx3D/Alexx3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Muy Buenas!!👋 Me llamo Alejandro
+## Aspiro a modelador, animador y texturizador 3D, Tambien me dedico al diseño de revistas y carteles
+### Sobre mí
+#### Manejo los siguientes programas
+- Maya
+- Blender
+- Photoshop
+- Premiere
+- Substance painter
+- Indesign
+- Figma
+- Paquete de office
+#### Mis aficciones
+- Los videojuegos 👾
+- El cine 🖥️
+- La comida 🍔
+- El deporte 💪
+### Mi contacto
+(vallegaalejandro@gmail.com)
+### Mi proyecto actual
+![BunkerRetro](https://i.imgur.com/LjsRQXZ.png)
